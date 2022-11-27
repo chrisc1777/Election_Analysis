@@ -104,7 +104,7 @@ with open(file_to_save, "w") as txt_file:
         print(county_results)
 
          # 6e: Save the county votes to a text file.
-        txt_file.write(f"{county}: {county_vote_count}")
+        txt_file.write(f"{county}: {county_votes_percentage: .1f}% ({county_vote_count:,})\n")
 
          # 6f: Write an if statement to determine the winning county and get its vote count.
         if (county_vote_count > largest_county_votes): #& (county_vote_count(county) > county_vote_count(county + 1)):
