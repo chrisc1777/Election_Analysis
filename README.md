@@ -22,6 +22,9 @@ A Python script was executed to process the candidate election results for the e
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
     Candidate Diana DeGette won the election with a total of 272,892 votes making up 73.8%. 
+ 
+ ![election_results](https://user-images.githubusercontent.com/106359564/204115338-88da7bb0-f31d-430b-adf5-379f41d95d11.png)
+
     
 ## Election-Audit Summary
 This Python script can be used in the future by modifying the list for any type of election using the list variable "county_list = []." If the dataset has more fields, for example, "states" in a federal poll can be analyzed by changing the extraction variable "= row[2]."
