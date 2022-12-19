@@ -23,7 +23,8 @@ A Python script was executed to process the candidate election results for the e
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
     Candidate Diana DeGette won the election with a total of 272,892 votes making up 73.8%. 
  
- ![election_results](https://user-images.githubusercontent.com/106359564/204115338-88da7bb0-f31d-430b-adf5-379f41d95d11.png)
+<img width="290" alt="election_results" src="https://user-images.githubusercontent.com/106359564/208448177-60cf7ef1-8251-4493-920e-a4efceed358c.png">
+
 
     
 ## Election-Audit Summary
